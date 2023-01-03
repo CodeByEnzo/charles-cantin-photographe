@@ -1,7 +1,7 @@
 ---
 titre: Galerie
-corps: Vous trouverez ici une galerie exposant des photos capturées lors de mes
-  dernières prestations. Sélectionnez une ou plusieurs catégories pour afficher les images correspondantes.
+title: Les inoubliables..
+corps: Sélectionnez une ou plusieurs catégories pour visionner la galerie.
 photos:
   - photo: images/uploads/bebe1.webp
     name: Bébé 1
@@ -53,6 +53,7 @@ photos:
   - photo: images/uploads/portrait1.webp
     categories:
       - portrait
+    name: portrait1
   - photo: images/uploads/portrait2.webp
     name: Portrait 2
     categories:
@@ -89,5 +90,4 @@ photos:
     name: Mcouple
     categories:
       - couple
-      
 ---
