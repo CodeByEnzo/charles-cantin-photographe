@@ -30,9 +30,9 @@ cartes:
 
       Jusqu’à 4 personnes, en extérieur ou en studio.
 
-      * 300 prises de vues. 
-      * Un album de 40 photos sélectionnées ensemble
-      * 20 photos retouchées selon vos goûts
+      * Prise de vue 5 heures
+      * changement de tenues
+      * Différents fonds, portraits et/ou pose
     titre: En famille
     src: images/uploads/famille.webp
     prix: "786"
@@ -42,9 +42,9 @@ cartes:
 
       A l’extérieur, à domicile ou en studio
 
-      * 100 prises de vues.
-      * Un album de 20 photos sélectionnées ensemble
-      * 5 photos retouchées naturellement
+      * Prise de vue 1 heure et demi
+      * Différentes poses
+      * Différents portraits
     src: images/uploads/grossesse.webp
     prix: "123"
   - corps: |-
@@ -52,20 +52,18 @@ cartes:
 
       A domicile
 
-      * 200 prises de vues.
-      * Un album de 30 photos sélectionnées ensemble
-      * 10 photos retouchées naturellement
+      * Prise de vue 2 heures
+      * Mise en confiance
+      * Différents portraits
     titre: Mon bébé
     prix: "234"
     src: images/uploads/bebe.webp
   - titre: J'immortalise l'évènement
-    corps: >-
+    corps: |-
       **Prestation sur mesure**
 
+      Mariage, baptême, évènementiel divers.
 
-      Mariage, baptême, fête de famille... tous type de rassemblement
-
-
-      Nous nous rencontrons et explorons ensemble le volume et le type de prises de vue que souhaitez et j'établis ensuite le devis qui vous correspond
+      Sur rendez-vous uniquements pour définir un devis.
     src: images/uploads/bapteme2.webp
 ---
