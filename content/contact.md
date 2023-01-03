@@ -1,6 +1,6 @@
 ---
 titre: Contact
-corps: Besoin d’information ? Une demande de devis ? Envoyez-moi un message et
-  je vous recontacte sous 48 heures.
+corps: Besoin d'un renseignement ? D'un devis ? Contactez moi via le formulaire
+  ci-dessous et je reviendrais très vite vers vous.
 form: https://formspree.io/f/xzbwgqvg
 ---
