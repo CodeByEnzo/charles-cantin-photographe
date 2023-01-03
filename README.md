@@ -1,5 +1,6 @@
 # charles-cantin-photographe
-##Developper la partie front end d'une application web
+
+## Developper la partie front end d'une application web
 
 ### How to install 
 
