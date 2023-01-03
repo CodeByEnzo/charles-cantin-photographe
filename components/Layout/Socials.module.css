@@ -1,0 +1,19 @@
+.Socials {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2;
+  padding: 20px;
+}
+
+.Socials svg {
+  margin: 0.625rem;
+  cursor: pointer;
+}
+
+.Socials > a {
+  text-decoration: none;
+  color: inherit;
+  margin-top: 0.15rem;
+}
+

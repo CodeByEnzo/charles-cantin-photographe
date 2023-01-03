@@ -1,0 +1,84 @@
+.contactTitle {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.contact {
+    height: 80vh;
+    width: 60vw;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.contactDesc {
+    width: 50vw;
+    text-align: center;
+    margin: auto;
+    color: rgb(0, 0, 0);
+    padding-bottom: 15px;
+}
+
+.formContainer {
+    background: #47555E;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    text-align: left;
+    margin: auto;
+    color: white;
+    border-radius: 15px;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 0, 0.037);
+}
+
+.ItemContainer {
+    margin-top: 20px;
+}
+
+.contactForm {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.formItem {
+    font-size: 1rem;
+    width: 90%;
+    height: 50px;
+    border: 1px solid white;
+    background: rgba(0, 0, 0, 0);
+    color: white;
+    padding: 10px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    border-radius: 5px;
+}
+
+.textLabel {
+    margin-left: 3rem;
+    font-size: 1.3rem;
+}
+
+.formBtn {
+    padding: 10px 20px 10px 20px;
+    background: rgba(255, 255, 255, 0);
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    color: white;
+    margin-bottom: 20px;
+    width: 200px;
+    font-size: 1.3rem;
+}
+
+.formBtn:hover {
+    color: #47555E;
+    border: 1px solid #47555E;
+    background: #ffffff;
+}
