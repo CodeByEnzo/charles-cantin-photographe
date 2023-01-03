@@ -44,6 +44,7 @@
     flex-wrap: wrap;
     flex-direction: column;
     justify-content: center;
+    box-shadow: 10px 15px 5px rgba(0, 0, 0, 0.269);
 }
 
 .formItem {
