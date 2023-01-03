@@ -9,9 +9,9 @@ cartes:
 
       En extérieur ou en studio.
 
-      * 100 prises de vues
-      * Un album de 20 photos sélectionnées ensemble
-      * 5 photos retouchées selon vos goûts
+      * Prises de vues d'une heure
+      * Changement de tenues (3 à 4)
+      * Différents fonds
     prix: "123"
     src: images/uploads/portrait1.webp
   - titre: Nous deux
@@ -20,9 +20,9 @@ cartes:
 
       En extérieur ou en studio.
 
-      * 200 prises de vues
-      * Un album de 30 photos sélectionnées ensemble
-      * 10 photos retouchées selon vos goûts
+      * Prises de vues deux heures
+      * Changement de tenues
+      * Différents fonds
     prix: "246"
     src: images/uploads/couple.webp
   - corps: |-
