@@ -16,8 +16,8 @@ const Contact = ({ titre, corps }) => {
                         <input type="hidden" name="form-name" value="contact" />
                         <label className={styles.textLabel} for="name">Votre nom:
                             <input className={styles.formItem} placeholder="Votre nom" type="text" name="name" />
-                        </label>git add .
-                        
+                        </label>
+
                     </p>
                     <p className={styles.ItemContainer}>
                         <label className={styles.textLabel} for="email">Votre Email:
