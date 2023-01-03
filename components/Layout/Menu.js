@@ -6,8 +6,7 @@ import styles from "./Menu.module.css"
 
 
 const Menu = ({ onClick, expanded }) => {
-  const {asPath} = useRouter()
-
+    const router = useRouter();
   return (  
     <nav className={expanded ? styles["Menu"] + ' ' + styles["expanded"] : styles.Menu}>
       <Cross       
@@ -16,22 +15,22 @@ const Menu = ({ onClick, expanded }) => {
       <ul>
           <li>
             <Link href="/">
-              <a className={asPath === '/' ? 'active' : 'item'}>ACCUEIL</a>
+                      <a className={router.pathname == "/" ? styles.active : styles.navItem}>ACCUEIL</a>
             </Link>
           </li>      
         <li>
           <Link href="/galerie">
-            <a className={asPath === '/galerie' ? 'active' : 'item'}>GALERIE</a>
+                      <a className={router.pathname == "/galerie" ? styles.active : styles.navItem}>GALERIE</a>
           </Link>
         </li>
         <li>
           <Link href="/prestations">
-            <a className={asPath === '/prestations' ? 'active' : 'item'}>PRESTATIONS</a>
+                      <a className={router.pathname == "/prestations" ? styles.active : styles.navItem}>PRESTATIONS</a>
           </Link>
         </li>
         <li>
           <Link href="/contact">
-            <a className={asPath === '/contact' ? 'active' : 'item'}>CONTACT</a>
+                      <a className={router.pathname == "/contact" ? styles.active : styles.navItem}>CONTACT</a>
           </Link>
         </li>
       </ul>

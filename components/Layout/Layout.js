@@ -3,8 +3,6 @@ import Head from "next/head";
 import Header from "./Header";
 import Footer from "./Footer";
 
-import Navbar from "./Navbar/Navbar";
-
 import styles from './Layout.module.css'
 
 const Layout = props => (
