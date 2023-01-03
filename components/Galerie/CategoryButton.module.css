@@ -1,5 +1,7 @@
 .CategoryButton {
   border: none;
+  width: 100px;
+  height: 50px;
   border-radius: 7px;
   margin: 5px;
   padding: 0.5rem;
