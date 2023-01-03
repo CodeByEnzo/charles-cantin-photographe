@@ -6,7 +6,7 @@
 
 - Create new folder on your desktop
 
-- Use GitBash in the the new folder and run this comaand : git clone https://github.com/CodeByEnzo/charles-cantin-photographe.git
+- Use GitBash in the new folder and run this comaand : git clone https://github.com/CodeByEnzo/charles-cantin-photographe.git
 
 - Open the project with VsCode and install npm ( new terminal => npm install)
 
