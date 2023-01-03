@@ -1,6 +1,6 @@
 ---
 titre: Tarifs et prestations
-corps: Retrouvez ici les tarifs de mes prestations, pour plus de renseignements,
+corps: Retrouvez ici les tarifs de mes prestations. Pour plus de renseignements,
   n'hésitez pas à prendre contact.
 cartes:
   - titre: Juste moi
