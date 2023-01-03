@@ -1,8 +1,7 @@
 ---
-titre: Prestations
-corps: Afin de garder en mémoire tous les détails de ces moments hors du commun,
-  je vous propose différentes prestations adaptées à l’évènement que vous
-  souhaitez immortaliser.
+titre: Tarifs et prestations
+corps: Retrouvez ici les tarifs de mes prestations, pour plus de renseignements,
+  n'hésitez pas à prendre contact.
 cartes:
   - titre: Juste moi
     corps: |-
@@ -63,10 +62,10 @@ cartes:
     corps: >-
       **Prestation sur mesure**
 
-      
+
       Mariage, baptême, fête de famille... tous type de rassemblement
 
-      
+
       Nous nous rencontrons et explorons ensemble le volume et le type de prises de vue que souhaitez et j'établis ensuite le devis qui vous correspond
     src: images/uploads/bapteme2.webp
 ---
